@@ -1,0 +1,9 @@
+Hi there,
+
+- There are multiple jupyter notebooks for your convenience.
+- You just can do "rull all cells" to view the outputs which are presented in the report.
+- Or you can just run the codes normally using "python filename"
+- The names of the notebooks and python files tell which algorithm is inspected for the datasets.
+- For titanic, loan datasets - we have dropped "loanID" and "name" while preprocessing data.
+
+PS : Some results may vary due to randomness involved in generating stratified k-folds for the models.
