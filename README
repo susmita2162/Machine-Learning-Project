@@ -1,5 +1,10 @@
 Hi there,
 
+As part of this project, we have implemented Random Forest algorithm to detect breast cancer and Parkinsons disease and obtained an accuracy of 98% and 94%. 
+Also, developed a Neural network to detect handwritten digits that produced an accuracy of 99%. 
+
+We have implemented the project using Python3, Pandas, NumPy, Matplotlib.
+
 - There are multiple jupyter notebooks for your convenience.
 - You just can do "rull all cells" to view the outputs which are presented in the report.
 - Or you can just run the codes normally using "python filename"
